@@ -1,4 +1,4 @@
-## Compile and Run
+## Get the code
 
 Fetch the code with dependencies:
 
