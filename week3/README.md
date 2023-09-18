@@ -10,7 +10,7 @@ Option2:
 
 
 
-## MacOS (terminal)
+## MacOS 
 
 **Compile**
 
