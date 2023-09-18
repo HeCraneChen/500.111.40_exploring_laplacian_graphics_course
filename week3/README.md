@@ -6,6 +6,10 @@ Fetch the code with dependencies:
 
 Compile this project using the standard cmake routine:
 
+## MacOS (terminal)
+
+**Compile**
+
     cd week3
     cd HelloGraphics
     mkdir build
@@ -13,9 +17,25 @@ Compile this project using the standard cmake routine:
     cmake ..
     make
 
-Run:
+**Run**
 
     ./HelloGraphics
+
+## Windows (Visual Studio)
+
+**Compile**
+
+Open the Visual Studio IDE, and click the following
+
+`Open a local folder` and open the total-curvature-estimation folder cloned from this repo
+
+`File`  `Open`  `CMake...` and open the CMakeLists.txt
+
+`Build`  `Build All`
+
+**Run**
+
+
     
 
 
