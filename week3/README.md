@@ -14,7 +14,7 @@ Option2:
 
 You will access CMake from terminal. First, install HomeBrew, then in the terminal run:
 
-brew install cmake
+    brew install cmake
 
 **Compile**
 
