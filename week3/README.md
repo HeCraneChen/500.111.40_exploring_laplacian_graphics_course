@@ -12,6 +12,10 @@ Option2:
 
 ## MacOS 
 
+You will access CMake from terminal. First, install HomeBrew, then in the terminal run:
+
+brew install cmake
+
 **Compile**
 
     cd week3
@@ -26,6 +30,8 @@ Option2:
     ./HelloGraphics
 
 ## Windows (Visual Studio)
+
+You will access CMake through Visual Studio.
 
 **Compile**
 
