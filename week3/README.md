@@ -1,9 +1,3 @@
-## Dependencies
-
-- [STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-- [eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) for matrix data structures
-- [libigl](http://libigl.github.io/libigl/) for mesh data structures and geometry processing tools
-
 ## Compile and Run
 
 Fetch the code with dependencies:
