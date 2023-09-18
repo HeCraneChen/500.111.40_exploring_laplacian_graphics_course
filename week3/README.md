@@ -2,9 +2,11 @@
 
 Option1:
 
-Download the zip
+Go to the "exploring_laplacian_graphics_course" folder, where you can Download the zip
 
 Option2:
+
+Type the following in your terminal (this is using git):
 
     git clone https://github.com/HeCraneChen/exploring_laplacian_graphics_course.git --recursive
 
