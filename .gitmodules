@@ -1,0 +1,3 @@
+[submodule "week3/crane/week3/libigl"]
+	path = week3/crane/week3/libigl
+	url = https://github.com/libigl/libigl.git
