@@ -1,10 +1,14 @@
 ## Get the code
 
-Fetch the code with dependencies:
+Option1:
+
+Download the zip
+
+Option2:
 
     git clone https://github.com/HeCraneChen/exploring_laplacian_graphics_course.git --recursive
 
-Compile this project using the standard cmake routine:
+
 
 ## MacOS (terminal)
 
